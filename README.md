@@ -44,12 +44,32 @@ The project utilizes a combination of technologies to create an engaging and res
 The Triveni Travel Advisor website is divided into several sections, each serving a specific purpose:
 
 1. **Home**: The landing page with an overview of the website and its offerings.
-2. **Services**: Information about the services provided by the travel advisor.
-3. **About**: Details about the company, its mission, and values.
-4. **Destinations**: Explore recommended travel destinations.
-5. **Team Members**: Meet the team behind Triveni Travel Advisor.
-6. **Testimonials**: Feedback and testimonials from satisfied customers.
-7. **Contact**: A contact page for users to get in touch with any inquiries.
+
+   ![Home Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/home.png)
+
+3. **Services**: Information about the services provided by the travel advisor.
+
+   ![Service Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/services.png)
+
+6. **About**: Details about the company, its mission, and values.
+
+   ![About Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/about.png)
+   
+8. **Destinations**: Explore recommended travel destinations.
+
+   ![Destinations Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/destinations.png)
+   
+10. **Team Members**: Meet the team behind Triveni Travel Advisor.
+
+    ![Team Members Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/team.png)
+    
+12. **Testimonials**: Feedback and testimonials from satisfied customers.
+
+    ![Testimonials Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/testimonials.png)
+    
+14. **Contact**: A contact page for users to get in touch with any inquiries.
+
+    ![Contact Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/contact.png)
 
 ## Getting Started
 
