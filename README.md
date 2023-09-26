@@ -1,5 +1,7 @@
 # Triveni Travel Advisor - Front End Project
 
+  ![Home Image](https://github.com/CHEEMS-1206/Triveni/blob/main/img/ProjectImages/home.png)
+
 Welcome to the Triveni Travel Advisor GitHub repository! This repository contains the source code for a front-end web application built using HTML, CSS, JavaScript, jQuery, Bootstrap, WOW.js, and Owl Carousel. Triveni Travel Advisor is a travel advisory website designed to help users explore destinations, learn about services, and get in touch with the team.
 
 ## Table of Contents
@@ -94,3 +96,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 Thank you for your interest in Triveni Travel Advisor! If you have any questions or need further assistance, please don't hesitate to reach out.
 
 Happy coding and happy traveling! 🌍✈️🌴
+
+## Live Link
+This Project has been deployed on Netlify feel free to checkout the demo and later on clone repo for any changes/updates
+https://triveni-travel-advisor.netlify.app/
